@@ -1,0 +1,66 @@
+[
+  {
+    "file": "1-finding-the-plot.md",
+    "title": "Finding the Perfect Building Plot in Saint Gervais",
+    "description": "How we discovered our dream location with unobstructed Dômes de Miage views and navigated the French property market.",
+    "date": "January 2024",
+    "status": "Complete",
+    "image": "plot/plot-search.jpg"
+  },
+  {
+    "file": "2-the-land.md",
+    "title": "Understanding Your Alpine Building Site",
+    "description": "Site surveys, soil analysis, and alpine conditions that influence chalet construction in the French Alps.",
+    "date": "February 2024", 
+    "status": "Complete",
+    "image": "land/site-survey.jpg"
+  },
+  {
+    "file": "3-planning-permission.md",
+    "title": "Navigating French Planning Permission",
+    "description": "The complete process of obtaining building permits in France, from initial applications to final approvals.",
+    "date": "March 2024",
+    "status": "Complete", 
+    "image": "planning/permits.jpg"
+  },
+  {
+    "file": "4-design-modifications.md",
+    "title": "Adapting Designs for Alpine Conditions",
+    "description": "How we modified our contemporary chalet design to meet French building codes and alpine weather requirements.",
+    "date": "April 2024",
+    "status": "Complete",
+    "image": "design/modifications.jpg"
+  },
+  {
+    "file": "5-groundworks-concrete.md",
+    "title": "Alpine Groundworks and Foundation Systems",
+    "description": "Excavation challenges, foundation design, and concrete work in mountain conditions with access limitations.",
+    "date": "June 2024",
+    "status": "Complete",
+    "image": "groundworks/foundation.jpg"
+  },
+  {
+    "file": "6-sip-construction.md", 
+    "title": "SIP Panel Construction in the French Alps",
+    "description": "Modern Structural Insulated Panel techniques for energy-efficient alpine construction and rapid build times.",
+    "date": "September 2024",
+    "status": "In Progress",
+    "image": "sip/panel-installation.jpg"
+  },
+  {
+    "file": "7-windows-cladding.md",
+    "title": "Windows and External Cladding Systems",
+    "description": "Selecting alpine-grade windows and traditional timber cladding for authentic Savoyard appearance.",
+    "date": "November 2024",
+    "status": "In Progress", 
+    "image": "exterior/cladding.jpg"
+  },
+  {
+    "file": "8-watertight.md",
+    "title": "Achieving Watertight Building Envelope",
+    "description": "Critical weatherproofing techniques and quality control measures for alpine construction projects.",
+    "date": "December 2024",
+    "status": "Planned",
+    "image": "envelope/watertight.jpg"
+  }
+]
