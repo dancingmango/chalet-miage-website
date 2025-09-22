@@ -33,7 +33,7 @@ html {
    ========================================================================== */
 
 header {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.4), rgba(52, 73, 94, 0.6)), url('../images/chalet-hero.jpg');
+    background: linear-gradient(135deg, rgba(44, 62, 80, 0.4), rgba(52, 73, 94, 0.6)), url('../images/chalet-hero.png');
     background-size: cover;
     background-position: center;
     color: white;
